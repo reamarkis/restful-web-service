@@ -31,7 +31,7 @@ public class Value {
     public String toString() {
         return "Value{" +
                 "id=" + id +
-                ", quote='" + quote + '\'' +
+                ", quote='" + quote + 
                 '}';
     }
 }

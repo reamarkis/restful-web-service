@@ -29,7 +29,7 @@ public class Quote {
 	@Override
     public String toString() {
         return "Quote{" +
-                "type='" + type + '\'' +
+                "type='" + type + 
                 ", value=" + value +
                 '}';
     }
