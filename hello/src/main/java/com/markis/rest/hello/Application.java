@@ -9,6 +9,8 @@ import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
+import com.markis.rest.hello.consuming.Quote;
+
 @SpringBootApplication
 public class Application {
 	

@@ -1,4 +1,4 @@
-package com.markis.rest.hello;
+package com.markis.rest.hello.building;
 
 public class Greeting {
 	
